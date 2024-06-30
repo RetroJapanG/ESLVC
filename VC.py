@@ -344,4 +344,4 @@ else:
 #    print("No words from list 3 matched.")
 
 #Print ending text
-print("Thank you for using my vocabulary checker! In the future I hope to update it to allow advanced syntaxt checking, vocabulary frequency numbers, an option to give easy definitions, add a third list for it to check, and have it export matched words into an excel sheet.")
+print("Thank you for using my vocabulary checker! In the future I hope to update it to allow advanced syntax checking, vocabulary frequency numbers, an option to give easy definitions, add a third list for it to check, and have it export matched words into an excel sheet.")
